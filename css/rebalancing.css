@@ -1,0 +1,148 @@
+.lineConnect {
+    /*stroke: orange;*/
+		stroke: rgb(255, 190, 123);
+		stroke-width:4px;
+    opacity: .5;
+		color:orange;
+}
+
+.lineConnect.hover {
+		stroke-width:4px;
+		/*stroke:#de0909;*/
+		stroke:black;
+    opacity: 1;
+}
+
+.navbar{
+	z-index: 10000;
+}
+
+#page{
+	position: fixed;
+	top:55px;
+	left:0;
+	right:0;
+	bottom:0;
+}
+
+#mapid{
+	position: absolute;
+	width:50%;
+	top:0;
+	left:0;
+	bottom:0;
+}
+
+#data{
+	position: absolute;
+	width:50%;
+	top:0;
+	right:0;
+	bottom:0;
+}
+
+#table{
+	height:100%;
+	overflow-y: auto;
+	overflow-x: auto;
+	padding: 8px;
+	padding-bottom: 60px;
+}
+
+#runner{
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+  padding: 8px;
+}
+
+.hover {
+	background-color:burlywood !important;
+	fill:burlywood !important;
+	stroke: white;
+	stroke-width: 3px;
+	r:10;
+}
+
+.selected {
+	background-color:steelblue !important;
+	fill:steelblue !important;
+	r:5;
+}
+
+.selected.hover {
+	background-color:tan !important;
+	/*fill:tan !important;*/
+}
+
+.point {
+	r:5;
+	stroke:white;
+	stroke-width:2px;
+}
+
+.point.hover {
+	r:10;
+	fill:tan;
+	stroke:black;
+	stroke-width:2px;
+}
+
+.startPoint {
+	fill:red !important;
+	opacity:1;
+	stroke:white;
+	stroke-width:2px;
+	r:6;
+}
+
+.startPoint.hover {
+	fill:purple !important;
+	stroke:black;
+	stroke-width:2px;
+	opacity:1;
+	r:6;
+}
+
+.endPoint {
+	fill:green !important;
+	opacity:0.2;
+	stroke:white;
+	stroke-opacity:1;
+	stroke-width:2px;
+	r:10;
+}
+
+.endPoint.hover {
+	fill:green !important;
+	stroke:black;
+	stroke-width:2px;
+	opacity:1;
+	r:10;
+}
+
+th, td {
+    font-size:0.8em;
+    padding-left:7px;
+    padding-right:7px;
+    padding-top:6px;
+    padding-bottom:6px;
+    vertical-align:middle;
+    text-align:left;
+}
+
+th {
+		color: #808080;
+		border-bottom: 1px solid #ccc;
+		font-size: 10px;
+		text-transform: uppercase;
+}
+
+td {
+		border-bottom: 1px solid #ccc;
+}
+
+td.rowkey {
+    text-align:left;
+}
