@@ -1,5 +1,4 @@
 .lineConnect {
-    /*stroke: orange;*/
 		stroke: rgb(255, 190, 123);
 		stroke-width:4px;
     opacity: .5;
@@ -8,7 +7,6 @@
 
 .lineConnect.hover {
 		stroke-width:4px;
-		/*stroke:#de0909;*/
 		stroke:black;
     opacity: 1;
 }
@@ -66,14 +64,14 @@
 }
 
 .selected {
-	background-color:steelblue !important;
-	fill:steelblue !important;
+	background-color:#ec8383 !important;
+	fill:#ec8383 !important;
+  stroke: black !important;
 	r:5;
 }
 
 .selected.hover {
 	background-color:tan !important;
-	/*fill:tan !important;*/
 }
 
 .point {

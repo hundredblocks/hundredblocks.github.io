@@ -5,360 +5,65 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.42489000000000043,50.8373899999999992 ]
+       "coordinates":  [-122.404806, 37.797803 ]
     },
     "properties": {
     "id":1,
-    "vin":"VF3CCHNZ6GT180931",
-    "license":"1PSE789",
-    "idle_time":1553453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"CHANTAL 1PSE789",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
+    "name": "Monroe's",
+    "type": "Breakfast",
+    "comments": "Best brunch in the city!"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.39477999999999991,50.8434299999999979 ]
+       "coordinates":  [-122.397716, 37.783201 ]
     },
     "properties": {
     "id":2,
-    "vin":"VF3CCHNZ6GT179566",
-    "license":"1PSZ376",
-    "idle_time":453453,
-    "battery_level":12.35,
-    "fuel_percent":85,
-    "name":"ROGER 1PSZ376",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
+    "name":"Café du Soleil",
+    "type":"Lunch",
+    "comments": "The half a Sandwich, half a salad deal is great !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.38475000000000037,50.8795599999999979 ]
+       "coordinates":  [-122.403864, 37.790489 ]
     },
     "properties": {
     "id":3,
-    "vin":"VF3CCHNZ6GT196810",
-    "license":"1PVH093",
-    "idle_time":423453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"VERNA 1PVH093",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
+    "name":"Rickhouse",
+    "type":"Drinks",
+    "comments": "Any cocktail with a French name is a guaranteed success."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.3974000000000002,50.8402900000000031 ]
+       "coordinates":  [-122.421775, 37.761011 ]
+    },
+    "properties": {
+    "id":3,
+    "name":"Mission Cheese",
+    "type":"Dinner",
+    "comments": "Any Cheese flight is good, California Gold is Amazing!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.406282, 37.781134 ]
     },
     "properties": {
     "id":4,
-    "vin":"VF3CCHNZ6GT179548",
-    "license":"1PRA361",
-    "idle_time":353453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"ALLAN 1PRA361",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.39341000000000026,50.843670000000003 ]
-    },
-    "properties": {
-    "id":5,
-    "vin":"VF3CCHNZ6GT197927",
-    "license":"1PXF810",
-    "idle_time":354453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"1PXF810",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.35311999999999966,50.8492200000000025 ]
-    },
-    "properties": {
-    "id":6,
-    "vin":"VF3CCHNZ6GT178478",
-    "license":"1PRA290",
-    "idle_time":344453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"IMAD 1PRA290",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.48214999999999986,50.8963699999999974 ]
-    },
-    "properties": {
-    "id":7,
-    "vin":"VF3CCHNZ6GT179543",
-    "license":"1PRA447",
-    "idle_time":300000,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"AMBIORIX 1PRA447",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.35017999999999994,50.8648799999999994 ]
-    },
-    "properties": {
-    "id":8,
-    "vin":"VF3CCHNZ6GT180924",
-    "license":"1PSE769",
-    "idle_time":298451,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"SANDRA 1PSE769",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.4036900000000001,50.7959299999999985 ]
-    },
-    "properties": {
-    "id":9,
-    "vin":"VF3CCHNZ6GT199057",
-    "license":"1PVU409",
-    "idle_time":253453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"1PVU409",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.41666999999999987,50.8585800000000035 ]
-    },
-    "properties": {
-    "id":10,
-    "vin":"VF3CCHNZ6GT199063",
-    "license":"1PXF962",
-    "idle_time":233453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"1PXF962",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.4119900000000003,50.8261499999999984 ]
-    },
-    "properties": {
-    "id":11,
-    "vin":"VF3CCHNZ6GT197932",
-    "license":"1PXF833",
-    "idle_time":223453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"1PXF833",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.36033000000000026,50.839739999999999 ]
-    },
-    "properties": {
-    "id":12,
-    "vin":"VF3CCHNZ6GT199049",
-    "license":"1PVU395",
-    "idle_time":223453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"1PVU395",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.36826000000000025,50.812660000000001 ]
-    },
-    "properties": {
-    "id":13,
-    "vin":"VF3CCHNZ6GT179558",
-    "license":"1PSE727",
-    "idle_time":123453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"JESSICA 1PSE727",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.38834999999999997,50.8468500000000034 ]
-    },
-    "properties": {
-    "id":14,
-    "vin":"VF3CCHNZ6GT197933",
-    "license":"1PVU239",
-    "idle_time":120453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"VERONICA 1PVU239",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.36606999999999967,50.816200000000002 ]
-    },
-    "properties": {
-    "id":15,
-    "vin":"VF3CCHNZ6GT180937",
-    "license":"1PSZ318",
-    "idle_time":119453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"BENJAMIN 1PSZ318",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.42131000000000007,50.8371799999999965 ]
-    },
-    "properties": {
-    "id":16,
-    "vin":"VF3CCHNZ6GT180909",
-    "license":"1PSZ337",
-    "idle_time":53453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"ANTOINE 1PSZ337",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.39503000000000021,50.8506100000000032 ]
-    },
-    "properties": {
-    "id":17,
-    "vin":"VF3CCHNZ6GT167778",
-    "license":"1PLK632",
-    "idle_time":23453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"KATE 1PLK632",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.33457999999999988,50.8614200000000025 ]
-    },
-    "properties": {
-    "id":18,
-    "vin":"VF3CCHNZ6GT180922",
-    "license":"1PSE748",
-    "idle_time":13453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"RACHIDA 1PSE748",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.40533000000000019,50.8163100000000014 ]
-    },
-    "properties": {
-    "id":19,
-    "vin":"VF3CCHNZ6GT179552",
-    "license":"1PRA394",
-    "idle_time":3453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"RAYHANA 1PRA394",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.41757000000000044,50.846269999999997 ]
-    },
-    "properties": {
-    "id":20,
-    "vin":"VF3CCHNZ6GT184616",
-    "license":"1PSZ467",
-    "idle_time":453,
-    "battery_level":12.45,
-    "fuel_percent":67,
-    "name":"CHARLOTTE 1PSZ467",
-    "state":"Available",
-    "timestamp":"2016-11-10 21:40:12"
+    "name":"Box Kitchen",
+    "type":"Dinner",
+    "comments": "Their burger and Garlic Parm fries are to die for."
     }
   }
 ]
