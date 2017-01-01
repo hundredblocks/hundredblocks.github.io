@@ -5,13 +5,13 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [-122.404806, 37.797803 ]
+       "coordinates":  [-122.418107, 37.783101 ]
     },
     "properties": {
     "id":1,
-    "name": "Monroe's",
-    "type": "Breakfast",
-    "comments": "Best brunch in the city!"
+    "name": "Chambers",
+    "type": "Brunch",
+    "comments": "Best brunch in the city by far."
     }
   },
   {
@@ -24,7 +24,20 @@
     "id":2,
     "name":"Café du Soleil",
     "type":"Lunch",
-    "comments": "The half a Sandwich, half a salad deal is great !"
+    "comments": "The half Sandwich, half salad deal is great !"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.421663, 37.763627 ]
+    },
+    "properties": {
+    "id":2,
+    "name":"Little Chihuaha",
+    "type":"Lunch",
+    "comments": "Amazing burritos!"
     }
   },
   {
@@ -38,6 +51,32 @@
     "name":"Rickhouse",
     "type":"Drinks",
     "comments": "Any cocktail with a French name is a guaranteed success."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.404806, 37.797803 ]
+    },
+    "properties": {
+    "id":1,
+    "name": "Monroe's",
+    "type": "Drinks",
+    "comments": "Friday nights for their ride through the decades party!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.431517, 37.765791 ]
+    },
+    "properties": {
+    "id":1,
+    "name": "Brewcade",
+    "type": "Drinks",
+    "comments": "Craft beer, arcade games, and pinball!"
     }
   },
   {
@@ -64,6 +103,32 @@
     "name":"Box Kitchen",
     "type":"Dinner",
     "comments": "Their burger and Garlic Parm fries are to die for."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.406251, 37.797795 ]
+    },
+    "properties": {
+    "id":4,
+    "name":"E Tutto Qua",
+    "type":"Dinner",
+    "comments": "Great italian pizzas at a fair price."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.485844, 37.858675 ]
+    },
+    "properties": {
+    "id":4,
+    "name":"Sushi Ran",
+    "type":"Dinner",
+    "comments": "Used to have a Michelin star, still deserves it."
     }
   }
 ]
